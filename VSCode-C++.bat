@@ -13,9 +13,9 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.
 C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\ucrt\x86;^
 C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\um\x86
 
-git config --global user.name "Test Student"
+git config --global user.name "Bryce Mancuso"
 
-git config --global user.email "cuteststudent@billkuker.com"
+git config --global user.email "bam00758@csc.vsc.edu"
 
 
 code --install-extension ms-vscode.cpptools & code
